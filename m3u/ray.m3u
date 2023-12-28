@@ -277,8 +277,18 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001219/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001102/index.m3u8
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://raytttt.github.io/raytv/logo/WLTY.png" group-title="纬来频道",纬来体育
 http://198.16.100.90:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
-#EXTINF:-1,tvg-id="三立iNEW+" tvg-name="三立iNEW+" tvg-logo="https://epg.112114.xyz/logo/三立INEW+.png" group-title="港澳台",三立iNEW+
+#EXTINF:-1 tvg-id="三立iNEW+" tvg-name="三立iNEW+" tvg-logo="https://raytttt.github.io/raytv/logo/SET_iNews_logo_2017.png" group-title="港澳台",三立iNEW+
 https://ytm2.yuanhsing.cf/SETLIVE.m3u8
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1,tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="https://epg.112114.xyz/logo/台視新聞.png" group-title="港澳台",台視新聞
 https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
 #EXTINF:-1,tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://epg.112114.xyz/logo/中視新聞.png" group-title="港澳台",中視新聞
