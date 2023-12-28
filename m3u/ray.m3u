@@ -281,16 +281,12 @@ http://198.16.100.90:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&
 https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
 #EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://live.fanmingming.com/tv/中视新闻.png" group-title="港澳台",中视新闻
 https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
-#EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="港澳台",台视新闻
-https://tv.iill.top/youtube/xL0ch83RAK8
 #EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://live.fanmingming.com/tv/台视.png" group-title="港澳台",台视新闻
 https://tv.iill.top/youtube/uDqQo8a7Xmk
 #EXTINF:-1 tvg-id="公视" tvg-name="公视" tvg-logo="https://live.fanmingming.com/tv/公视.png" group-title="港澳台",台视新闻
 https://tv.iill.top/youtube/C6gYqSHLRw4
 #EXTINF:-1 tvg-id="三立inews" tvg-name="三立inews" tvg-logo="https://raytttt.github.io/raytv/logo/SET_iNews_logo_2017.png" group-title="港澳台",三立inews
 https://tv.iill.top/youtube/CKjSm5ZeehE
-#EXTINF:-1 tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://live.fanmingming.com/tv/民视新闻台.png" group-title="港澳台",民视新闻
-https://tv.iill.top/youtube/ylYJSBUgaMA
 #EXTINF:-1 tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://live.fanmingming.com/tv/民视新闻台.png" group-title="港澳台",民视新闻
 https://tv.iill.top/youtube/ylYJSBUgaMA
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳台",凤凰中文
