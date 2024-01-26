@@ -111,10 +111,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:-1 group-title="localTVHD",CHC高清电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-#EXTINF:-1 group-title="localTVHD",信号测试1
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8
-#EXTINF:-1 group-title="localTVHD",信号测试2
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226338/index.m3u8
 #EXTINF:-1 group-title="CCTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV-1
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225783/index.m3u8
 #EXTINF:-1 group-title="CCTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV-1
