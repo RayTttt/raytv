@@ -121,13 +121,13 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="数字" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC3.png",CHC动作电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="数字" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo1.png",求索纪录
+#EXTINF:-1 group-title="数字" tvg-name="求索记录" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo1.png",求索纪录
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
-#EXTINF:-1 group-title="数字" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo2.png",求索科学
+#EXTINF:-1 group-title="数字" tvg-name="求索科学" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo2.png",求索科学
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
-#EXTINF:-1 group-title="数字" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo3.png",求索动物
+#EXTINF:-1 group-title="数字" tvg-name="求索动物" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo3.png",求索动物
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
-#EXTINF:-1 group-title="数字" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo4.png",求索生活
+#EXTINF:-1 group-title="数字" tvg-name="求索生活" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo4.png",求索生活
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
 #EXTINF:-1 group-title="数字" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hmdy.png",黑莓电影
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
@@ -241,25 +241,25 @@ http://175.0.51.26:8899/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 http://175.0.51.26:8899/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="湖南" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan7.png",湖南电视剧
 http://175.0.51.26:8899/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanghai1.png",上海新闻综合
+#EXTINF:-1 group-title="地方" tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanghai1.png",上海新闻综合
 http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226620/1.m3u8
-#EXTINF:-1 group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanghai2.png",上海都市
+#EXTINF:-1 group-title="地方" tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanghai2.png",上海都市
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221225673/1.m3u8
-#EXTINF:-1 group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanghai4.png",上海外语
+#EXTINF:-1 group-title="地方" tvg-name="上海外语" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanghai4.png",上海外语
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226201/1.m3u8
 #EXTINF:-1 group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang1.png",浙江钱江都市
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang2.png",浙江经济生活
+#EXTINF:-1 group-title="地方" tvg-name="浙江经视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang2.png",浙江经济生活
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang3.png",浙江科教影视
+#EXTINF:-1 group-title="地方" tvg-name="浙江教科影视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang3.png",浙江科教影视
 https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang4.png",浙江民生休闲
+#EXTINF:-1 group-title="地方" tvg-name="浙江民生休闲" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang4.png",浙江民生休闲
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang5.png",浙江公共新闻
+#EXTINF:-1 group-title="地方" tvg-name="浙江公共新闻" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang5.png",浙江公共新闻
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTINF:-1 group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang6.png",浙江少儿
+#EXTINF:-1 group-title="地方" tvg-name="浙江少儿" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang6.png",浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang7.png",浙江国际
+#EXTINF:-1 group-title="地方" tvg-name="浙江国际" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang7.png",浙江国际
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing5.png",纪实科教
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
