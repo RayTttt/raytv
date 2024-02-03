@@ -140,22 +140,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001699/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001067/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #山东台
-#EXTINF:-1,tvg-id="山东齐鲁" tvg-name="山东齐鲁" tvg-logo="https://epg.112114.xyz/logo/山东齐鲁.png" group-title="山东台",齐鲁高清
-http://112.231.180.119:8888/rtp/239.253.242.18:8000
-#EXTINF:-1,tvg-id="山东文旅" tvg-name="山东文旅" tvg-logo="https://epg.112114.xyz/logo/山东文旅.png" group-title="山东台",山东文旅高清
-http://112.231.180.119:8888/rtp/239.253.242.19:8000
-#EXTINF:-1,tvg-id="山东生活" tvg-name="山东生活" tvg-logo="https://epg.112114.xyz/logo/山东生活.png" group-title="山东台",山东生活高清
-http://112.231.180.119:8888/rtp/239.253.242.20:8000
-#EXTINF:-1,tvg-id="山东综艺" tvg-name="山东综艺" tvg-logo="https://epg.112114.xyz/logo/山东综艺.png" group-title="山东台",山东综艺高清
-http://112.231.180.119:8888/rtp/239.253.242.21:8000
-#EXTINF:-1,tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://epg.112114.xyz/logo/山东体育.png" group-title="山东台",山东体育高清
-http://112.231.180.119:8888/rtp/239.253.242.22:8000
-#EXTINF:-1,tvg-id="山东新闻" tvg-name="山东新闻" tvg-logo="https://epg.112114.xyz/logo/山东新闻.png" group-title="山东台",山东新闻高清
-http://112.231.180.119:8888/rtp/239.253.242.23:8000
-#EXTINF:-1,tvg-id="山东农科高清" tvg-name="山东农科高清" tvg-logo="https://epg.112114.xyz/logo/山东农科.png" group-title="山东台",山东农科高清
-http://112.231.180.119:8888/rtp/239.253.242.24:8000
-#EXTINF:-1,tvg-id="山东少儿" tvg-name="山东少儿" tvg-logo="https://epg.112114.xyz/logo/山东少儿.png" group-title="山东台",山东少儿高清
-http://112.231.180.119:8888/rtp/239.253.242.25:8000
+
 #EXTINF:-1,tvg-id="谍战剧场" tvg-name="谍战剧场" tvg-logo="https://epg.112114.xyz/logo/谍战剧场.png" group-title="山东台",谍战剧场
 http://112.231.180.119:8888/rtp/239.253.242.135:8000
 #EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="山东台",都市剧场
@@ -185,7 +170,7 @@ http://112.231.180.119:8888/rtp/239.253.242.246:8000
 
 #上海台
 #EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="上海台",上海新闻综合
-http://101.83.35.15:4022/rtp/239.45.3.209:5140
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031110/1.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="上海台",上海都市
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000018926/1.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jsrw.png" group-title="上海台",纪实人文
