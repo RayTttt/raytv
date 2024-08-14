@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Sync file
-        uses: repo-sync/github-sync-action@v2
+        uses: repo-sync/github-sync@v2
         with:
           source_repo: fanmingming/live
           source_file_path: tv/m3u/ipv6.m3u
