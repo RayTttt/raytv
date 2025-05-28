@@ -6,10 +6,5 @@ https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-5.ctv
 #EXTINF:-1 tvg-name="上海都市4" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="上海频道",上海都市
 https://stream1.freetv.fun/shang-hai-du-shi-13.ctv
 
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="上海频道",五星体育
-https://stream1.freetv.fun/d99d90dcb204a091467cada6295ceb8dfb0cf5c3890378e1d0f57ec8ef9922f0.m3u8
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="上海频道",五星体育
-https://stream1.freetv.fun/3790bf8630d515781cf6b215eebc059b6662c50a8a51aa0017183f0bfddd9101.ctv
-
-#EXTINF:-1 tvg-name="上海东方购物" tvg-logo="https://live.fanmingming.com/tv/上海东方购物.png" group-title="上海频道",上海东方购物
-https://stream1.freetv.fun/2be01ed9ec4206a06072584b7a1df4c1b6bbd53cb9e77bd9b272284e43755f8a.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="上海频道",东方卫视
+https://stream1.freetv.fun/dong-fang-wei-shi-40.ctv
